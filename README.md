@@ -2,7 +2,9 @@
 
 I'm the current developer of the 2nd revision of the DDLC Mod Template, Doki Doki Mod Docker, Doki Doki Mod Maker, DDLC OST-Player, DDLC: The True Reality, and Ren'Py Universal Player. I also maintain PA-CEQ, NatsukiBot for the DDMC, and Comedy Club 2.
 
-Currently a junior in a university in Texas studying computer science. I have experience in coding in C, C++, Python, Ren'Py, and Java with some knowledge on JavaScript, C#, HTML and CSS. Experimenting a bit with existing code and new code to make new stuff.
+I'm also a AI bot creator for LLMs targetting GPT/LLaMA models and characters mainly from HoYoverse (Honkai Impact 3rd/Genshin Impact/Honkai: Star Rail).
+
+Currently a senior in a university in Texas studying computer science. I have experience in coding in C, C++, Python, Ren'Py, and Java with some knowledge on JavaScript, C#, HTML and CSS. Experimenting a bit with existing code and new code to make new stuff.
 
 <!--
 **GanstaKingofSA/GanstaKingofSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
