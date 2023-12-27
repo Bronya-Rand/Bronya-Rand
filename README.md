@@ -5,13 +5,16 @@ I'm the current developer of the DDLC Mod Template 2.0, Doki Doki Mod Docker, Mo
 
 ### Education/Skills
 Currently a senior in a university in Texas studying computer science. I have experience in coding in the following languages:
-- C/C++
-- Python
-- Ren'Py
-- Java
-- JavaScript
-- C#
-- HTML/CSS
+
+| Language | Proficency |
+| -------- | ---------- |
+| Python | Proficient |
+| Ren'Py | Proficient |
+| C/C++ | Intermediate |
+| Java | Intermediate |
+| JavaScript | Intermediate |
+| C# | Knowledgeable |
+| HTML/CSS | Knowledgeable |
 
 <!--
 **Bronya-Rand/Bronya-Rand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
