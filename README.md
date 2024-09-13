@@ -11,9 +11,10 @@ I'm the current developer of the DDLC Mod Template 2.0, Doki Doki Mod Docker, Mo
 | C/C++ | Intermediate |
 | Java | Intermediate |
 | JavaScript/TypeScript | Intermediate |
+| Go | Intermediate |
+| ProtoBuf | Intermediate |
 | C# | Knowledgeable |
 | HTML/CSS | Knowledgeable |
-| Go | Knowledgeable |
 <!--
 **Bronya-Rand/Bronya-Rand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
