@@ -1,7 +1,7 @@
 ## ❄️ Pleased to meet you. ❄️
 
 ### About Me
-I'm the current developer of the DDLC Mod Template 2.0, Doki Doki Mod Docker, Mod Maker, OST-Player, and other DDLC mod tools. I'm also a AI bot creator for LLMs (Large Language Models), focused primarily on characters mainly from HoYoverse's Honkai Impact 3rd, Genshin Impact and Honkai: Star Rail.
+I'm the current developer of the DDLC Mod Template 2.0, Doki Doki Mod Docker and other DDLC mod tools. I'm also a AI bot creator for LLMs (Large Language Models), focused primarily on characters mainly from HoYoverse's Honkai Impact 3rd, Genshin Impact and Honkai: Star Rail and Kuro's Wuthering Waves.
 
 ### Education/Skills
 | Language | Proficency |
@@ -10,11 +10,12 @@ I'm the current developer of the DDLC Mod Template 2.0, Doki Doki Mod Docker, Mo
 | Ren'Py | Proficient |
 | C/C++ | Intermediate |
 | Java | Intermediate |
-| JavaScript/TypeScript | Intermediate |
-| Go | Intermediate |
-| ProtoBuf | Intermediate |
+| JavaScript/TypeScript | Proficient |
+| Go | Proficient |
+| ProtoBuf | Proficient |
 | C# | Knowledgeable |
-| HTML/CSS | Knowledgeable |
+| HTML/CSS | Intermediate |
+
 <!--
 **Bronya-Rand/Bronya-Rand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
